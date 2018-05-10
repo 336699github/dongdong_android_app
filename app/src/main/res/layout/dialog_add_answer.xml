@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_vertical_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ui.QuestionDetailActivity">
+        <TextView
+            android:id="@+id/question_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="question content"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/edit_answer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/question_content"
+            android:hint="@string/positive_button_add_answer"
+            android:imeOptions="actionDone|flagNoExtractUi"
+            android:inputType="textMultiLine"
+            android:gravity="top"
+            android:textColor="@color/black"
+            android:textColorHint="@color/dark_grey" />
+
+</RelativeLayout>

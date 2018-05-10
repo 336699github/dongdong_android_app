@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1_5fa12f1128f9a2d746ce626a9d1f5bce1acbc89d.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.3.0_5a98c695a3597e412f5663fa63c800cc21fcd20a.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.3.0_e9ae11ca7f797017efa0a7d8efbb1ef37a58acce.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.3.0_944af1c3b0c837116fb0fee8adf6d028987fbc6b.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0-alpha1_79d401aa113f2d54ac7eadc5cfcf1ae30771e4f6.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_35216ade22d4a38e4bcc74b04d15da2adb7e902c.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0-alpha1_e8dfeb9304543b023e4c2bc00d6cf43858111869.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0-alpha1_88c4ee4ef39180430de0f30ea40a0e65f44606fb.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0-alpha1_fc213e7e47c4c3588ba31df589218628ba446aa3.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.2_a613b197f22a49623537aeba89546a50f5640a95.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.3.0_f95814381be402168cd37bff8a21cf7c6a1c8e6e.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_d9595a2570e70fbb519c12ca55d79b30daeee13f.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1_6d562e25c39f5e950a90b6124a510b08bb7ad361.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5f34a8aeb0eaaa2d69752d56102a8c808117058e">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-0.3.1_29dccc2a84cf6b15bfe09cabe254ff478129e728.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_a8adca0375ae825a07f06c47e6e16addb594f1ba.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cd688796dadc28f7f95db229cbfdaf91ebbb0d61">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0-alpha1_2b1696e5e39faece23e6a3bb11f7a1ac1e366d84.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0-alpha1_8c5ae4672f4366d8163623b652e9ddd03be77f41.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_6ea0afae82b80451da6b7321559eaba60d617e86.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_b0658257ceb41399a5594acd626e81428c93bddf.jar" />
+    </item>
+    <item
+        jar="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5305936738497fe4a5d89fc4f13015931c0fd402">
+        <dex dex="/Users/luliu/Desktop/my_miscellaneous_projects/DongDong-Android-APP/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.0.0-alpha1_8d34b221a9f073b7d2c80eaa294838ca96e856c4.jar" />
+    </item>
+
+</items>

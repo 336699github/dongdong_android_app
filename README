@@ -1,0 +1,51 @@
+DongDong 
+
+What is it? 
+---------------------------------
+DongDong is a question and answer platform targeting elementary , middle and high school students. 
+DongDong means "to understand" in Chinese. 
+Due to time limitation, this is only a crude version of the intended final product. many features such as messaging, points system and more input methods(doodle board, take photo, speech recognition etc.) have not been implemented. 
+
+Launching Instructions
+---------------------------------
+Please note:Android studio could not recognize LoginActivity as the default activity, please change the starting activity to "Specified Activity" in "Edit Configuration" to direct to LoginActivity before launching. 
+
+DongDong is implemented using Firebase as backend 
+an invitation to access the firebase database will be sent to the instructor's email when submitting this project
+
+
+Tabs Description
+---------------------------------
+Explore Tab: display list of Questions posted by users, the FloatingActionButton let user 					add a question. 
+
+Notification Tab:notify current user when: 
+						someone started to watch your question 
+						someone answered your question 
+						someone voted your answer 
+						someone saved your answer
+						someone gave you a thanks
+						someone started following you 
+				a notification will also be sent to the system notification list, clicking on the notificatino will direct to the relevant activity accordingly. 
+
+User Profile Tab: list the detailed information regarding current user.
+					user can access "Watching question list" and "saved answers"
+					user can edit his/her information by pressing "Edit Profile" button 
+					user can log out the session with "log out "button 
+
+Functions
+---------------------------------
+	add questions 
+	answer questions 
+	watch a question
+	vote, save an answer 
+	give thanks to the author of the answer 
+	follow/unfollow a user 
+	see any user's profile page 
+	see the followers and followings list of any user. 
+	edit User profile in personal homepage
+	access watching questions list from personal homepage
+	access saved answers list from personal homepage 
+
+
+
+

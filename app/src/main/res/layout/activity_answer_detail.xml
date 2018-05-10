@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.cs646.luliu.dongdong00.ui.AnswerDetailActivity">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/question_content_cardview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardBackgroundColor="@color/dark_green"
+        card_view:cardCornerRadius="10dp"
+        card_view:contentPadding="10dp"
+        card_view:cardElevation="8dp">
+        <TextView
+            android:id="@+id/question_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Question Content"
+            android:textColor="@color/primary_light"
+            android:textStyle="bold"/>
+
+    </android.support.v7.widget.CardView>
+
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/user_information_cardview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        card_view:cardCornerRadius="10dp"
+        card_view:contentPadding="10dp"
+        card_view:cardElevation="8dp">
+        <TextView
+            android:id="@+id/user_information"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="User Information"
+            android:textStyle="bold"/>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        card_view:cardBackgroundColor="@color/primary_light"
+        card_view:cardCornerRadius="10dp"
+        card_view:contentPadding="10dp"
+        card_view:cardElevation="8dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/answer_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:text="Answer Content" />
+            <LinearLayout
+                android:layout_alignParentBottom="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/upvote_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="100"
+                    android:textSize="10dp"
+                    android:textAllCaps="false"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/ic_thumb_up"
+                    style="?android:attr/borderlessButtonStyle"/>
+                <Button
+                    android:id="@+id/downvote_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="50"
+                    android:textSize="10dp"
+                    android:textAllCaps="false"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/ic_thumb_down"
+                    style="?android:attr/borderlessButtonStyle"/>
+                <Button
+                    android:id="@+id/save_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="save"
+                    android:textSize="10dp"
+                    android:textAllCaps="false"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/ic_bookmark"
+                    style="?android:attr/borderlessButtonStyle"/>
+
+                <Button
+                    android:id="@+id/thanks_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="150"
+                    android:textSize="10dp"
+                    android:textAllCaps="false"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/ic_action_heart"
+                    style="?android:attr/borderlessButtonStyle"/>
+
+            </LinearLayout>
+        </RelativeLayout>
+
+
+
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>
